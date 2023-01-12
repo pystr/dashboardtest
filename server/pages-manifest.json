@@ -1,0 +1,11 @@
+{
+  "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
+  "/admin/subscribes": "pages/admin/subscribes.html",
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/_document": "pages/_document.js",
+  "/admin/CreateSubscriber": "pages/admin/CreateSubscriber.html",
+  "/404": "pages/404.html"
+}
